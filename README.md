@@ -1,3 +1,5 @@
+### Goals: Use Python to extract data from multiple CSV files into DataFrames, clean the data in Jupyter Notebook, and use Python to analyze cleaned data.
+
 # Py Me Up, Charlie
 
 ## PyBank
